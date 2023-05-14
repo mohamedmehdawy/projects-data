@@ -1,0 +1,414 @@
+{
+    "slider": {
+        "id": 1,
+        "title": null,
+        "content": null,
+        "image": "https://main.transwayksa.net/images/6uLm12qq10rDesUiYpeN.png",
+        "video": "https://www.youtube.com/embed/cfUndab2Kg8"
+    },
+    "services": [
+        {
+            "id": 16,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/SEObWKZhkoq9d8tCNiRE.png",
+            "featured": 1,
+            "created_at": "2022-10-12T16:45:02.000000Z",
+            "description": ""
+        },
+        {
+            "id": 19,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/4nz2pePWjk8oEDt50UBd.png",
+            "featured": 1,
+            "created_at": "2022-10-12T16:47:14.000000Z",
+            "description": ""
+        },
+        {
+            "id": 20,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/TtfJrq7pKFEKBFrjhJ6T.png",
+            "featured": 1,
+            "created_at": "2022-10-12T16:47:51.000000Z",
+            "description": ""
+        },
+        {
+            "id": 21,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/FX13WTU82mRIYotyNk4U.png",
+            "featured": 1,
+            "created_at": "2022-10-12T16:48:24.000000Z",
+            "description": ""
+        },
+        {
+            "id": 22,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/BiOsF6ZxERWo3IwEOppH.png",
+            "featured": 1,
+            "created_at": "2022-10-12T16:49:01.000000Z",
+            "description": ""
+        },
+        {
+            "id": 25,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/LbxbjXqraAvj0NaU2ylz.png",
+            "featured": 1,
+            "created_at": "2022-10-16T01:38:13.000000Z",
+            "description": ""
+        }
+    ],
+    "rakmfamily": [
+        {
+            "id": 5,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/B1qbdckY8Rf7Fd7Qwf0C.png",
+            "featured": 1,
+            "created_at": "2022-10-11T13:26:46.000000Z",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/p0yYnuyjluiRk2qyUAaO.png",
+            "featured": 1,
+            "created_at": "2022-10-11T13:27:40.000000Z",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/MUtr8md2ZsaGqg4hO8bA.png",
+            "featured": 1,
+            "created_at": "2022-10-11T13:28:31.000000Z",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/lxs87ydW1JW93RKTTvkc.png",
+            "featured": 1,
+            "created_at": "2022-10-11T13:28:55.000000Z",
+            "description": ""
+        },
+        {
+            "id": 10,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/2CvGx6LZlBiLIrgHUN2X.png",
+            "featured": 1,
+            "created_at": "2022-10-15T14:30:27.000000Z",
+            "description": ""
+        },
+        {
+            "id": 11,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/uSiNXtkFwQAVP83vzctE.png",
+            "featured": 1,
+            "created_at": "2022-10-15T14:32:39.000000Z",
+            "description": ""
+        },
+        {
+            "id": 12,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/5TzVYfYnMhbkPIulcscg.png",
+            "featured": 1,
+            "created_at": "2022-10-15T14:35:10.000000Z",
+            "description": ""
+        },
+        {
+            "id": 13,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/hEAaZrs1BI1YMQ4CcuCb.png",
+            "featured": 1,
+            "created_at": "2022-10-15T14:37:41.000000Z",
+            "description": ""
+        }
+    ],
+    "portfolios": [
+        {
+            "id": 40,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/CFADEz0oa2AHR7j47Ak7.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e7727f0a07ecommerce.JPG",
+            "video": null,
+            "created_at": "2023-04-18T10:55:35.000000Z",
+            "category_id": 22,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 39,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/fop612R6gz5YnvvhpIRe.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e76b2b8c28ecommerce.JPG",
+            "video": null,
+            "created_at": "2023-04-18T10:53:38.000000Z",
+            "category_id": 22,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 38,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/QmvCgPsRiSusKEH5Vo6T.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e75c5c7386ecommerce.JPG",
+            "video": null,
+            "created_at": "2023-04-18T10:48:47.000000Z",
+            "category_id": 22,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 37,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/5SPhw6iOwhXZGLYG0kKd.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e74b7a5cdaecommerce.JPG",
+            "video": null,
+            "created_at": "2023-04-18T10:45:11.000000Z",
+            "category_id": 22,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 35,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/dISbRnAfhqijt2bvQgJh.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e6fbbe7c7becommerce.jpg",
+            "video": null,
+            "created_at": "2023-04-18T10:23:55.000000Z",
+            "category_id": 20,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 33,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/pBbzidbjMaO5opeXh6eC.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e6f58e4c42ecommerce.jpg",
+            "video": null,
+            "created_at": "2023-04-18T10:22:16.000000Z",
+            "category_id": 20,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 32,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/kuRBx8Puj8k5Q9qERISG.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e6f1d9dc2decommerce.jpg",
+            "video": null,
+            "created_at": "2023-04-18T10:21:17.000000Z",
+            "category_id": 20,
+            "category": null,
+            "description": ""
+        },
+        {
+            "id": 31,
+            "title": null,
+            "content": null,
+            "image": "https://main.transwayksa.net/images/j9WkQtMG3kKnn9f0CbOm.jpg",
+            "gallery": "https://main.transwayksa.net/images/643e6ef02f698ecommerce.jpg",
+            "video": null,
+            "created_at": "2023-04-18T10:20:32.000000Z",
+            "category_id": 20,
+            "category": null,
+            "description": ""
+        }
+    ],
+    "statistcs": [
+        {
+            "id": 1,
+            "title": null,
+            "count": "350",
+            "image": "https://main.transwayksa.net/images/PSwxK2fOMytdyiQbHebn.png"
+        },
+        {
+            "id": 2,
+            "title": null,
+            "count": "150",
+            "image": "https://main.transwayksa.net/images/lqaQXmexAwkD3b1bETWk.png"
+        },
+        {
+            "id": 3,
+            "title": null,
+            "count": "28",
+            "image": "https://main.transwayksa.net/images/qfmuHgTjyyNRuum7qUXk.png"
+        },
+        {
+            "id": 4,
+            "title": null,
+            "count": "10",
+            "image": "https://main.transwayksa.net/images/XUKdb4MtBjbwCiDLtut8.png"
+        }
+    ],
+    "partners": [
+        {
+            "id": 2,
+            "image": "https://main.transwayksa.net/images/FOfJ7REIViwcCs8EzdY2.jpg",
+            "created_at": "2022-10-11T15:19:03.000000Z",
+            "updated_at": "2022-10-11T15:19:03.000000Z"
+        },
+        {
+            "id": 3,
+            "image": "https://main.transwayksa.net/images/fzxvThNboII65uXkUTvC.jpeg",
+            "created_at": "2022-10-11T15:19:13.000000Z",
+            "updated_at": "2022-10-11T15:19:13.000000Z"
+        },
+        {
+            "id": 4,
+            "image": "https://main.transwayksa.net/images/8YytR96TxXu7kAXoy4kO.jpeg",
+            "created_at": "2022-10-11T15:19:19.000000Z",
+            "updated_at": "2022-10-11T15:19:19.000000Z"
+        },
+        {
+            "id": 5,
+            "image": "https://main.transwayksa.net/images/azpPU2KaD8lkfu6SiRQd.jpg",
+            "created_at": "2022-10-11T15:19:23.000000Z",
+            "updated_at": "2022-10-11T15:19:23.000000Z"
+        },
+        {
+            "id": 6,
+            "image": "https://main.transwayksa.net/images/Zd2469s6VZa9zqzjfvpn.jpeg",
+            "created_at": "2022-10-11T15:19:29.000000Z",
+            "updated_at": "2022-10-11T15:19:29.000000Z"
+        },
+        {
+            "id": 7,
+            "image": "https://main.transwayksa.net/images/d4CFj1mWcgcLviTZbWuY.jpeg",
+            "created_at": "2022-10-11T15:19:35.000000Z",
+            "updated_at": "2022-10-11T15:19:35.000000Z"
+        },
+        {
+            "id": 8,
+            "image": "https://main.transwayksa.net/images/TO2lqAHMcEdA4ejv4Qnn.jfif",
+            "created_at": "2022-10-11T15:19:41.000000Z",
+            "updated_at": "2022-10-11T15:19:41.000000Z"
+        },
+        {
+            "id": 10,
+            "image": "https://main.transwayksa.net/images/ZxF9WLbpl6tsKXKCoDET.jpeg",
+            "created_at": "2022-10-11T15:19:59.000000Z",
+            "updated_at": "2022-10-11T15:19:59.000000Z"
+        },
+        {
+            "id": 11,
+            "image": "https://main.transwayksa.net/images/nWXVjVSEoz1rYGPltqqL.jpeg",
+            "created_at": "2022-10-11T15:20:09.000000Z",
+            "updated_at": "2022-10-11T15:20:09.000000Z"
+        },
+        {
+            "id": 12,
+            "image": "https://main.transwayksa.net/images/tT1zv8J5c5ZYNC7UHZ6q.jpg",
+            "created_at": "2022-10-15T14:25:09.000000Z",
+            "updated_at": "2022-10-15T14:25:09.000000Z"
+        },
+        {
+            "id": 13,
+            "image": "https://main.transwayksa.net/images/eIxIa0nwbdipekCbDsCO.png",
+            "created_at": "2022-10-15T14:25:28.000000Z",
+            "updated_at": "2022-10-15T14:25:28.000000Z"
+        },
+        {
+            "id": 14,
+            "image": "https://main.transwayksa.net/images/tFUvW9AXKv7cvI1Zje3T.jpeg",
+            "created_at": "2022-10-15T14:25:44.000000Z",
+            "updated_at": "2022-10-15T14:25:44.000000Z"
+        },
+        {
+            "id": 15,
+            "image": "https://main.transwayksa.net/images/Bne5mSKNS74GAXARBiwX.jpg",
+            "created_at": "2022-10-15T14:25:50.000000Z",
+            "updated_at": "2022-10-15T14:25:50.000000Z"
+        },
+        {
+            "id": 16,
+            "image": "https://main.transwayksa.net/images/NSIR5cRkZ8ngi47E3Qzq.jpg",
+            "created_at": "2022-10-15T14:25:55.000000Z",
+            "updated_at": "2022-10-15T14:25:55.000000Z"
+        },
+        {
+            "id": 17,
+            "image": "https://main.transwayksa.net/images/oxDnET6MG4EINqpHQONA.png",
+            "created_at": "2023-04-12T13:18:05.000000Z",
+            "updated_at": "2023-04-12T13:18:05.000000Z"
+        },
+        {
+            "id": 18,
+            "image": "https://main.transwayksa.net/images/iINwglw0MmkYvIKbf9Pu.jpg",
+            "created_at": "2023-04-12T13:24:58.000000Z",
+            "updated_at": "2023-04-12T13:24:58.000000Z"
+        },
+        {
+            "id": 21,
+            "image": "https://main.transwayksa.net/images/nnVX2xHVnjroTStkZuMY.jpg",
+            "created_at": "2023-04-12T13:27:09.000000Z",
+            "updated_at": "2023-04-12T13:27:09.000000Z"
+        },
+        {
+            "id": 22,
+            "image": "https://main.transwayksa.net/images/x5zxdRV7v3SorNhROHkM.jpg",
+            "created_at": "2023-04-12T13:28:42.000000Z",
+            "updated_at": "2023-04-12T13:28:42.000000Z"
+        },
+        {
+            "id": 23,
+            "image": "https://main.transwayksa.net/images/m18X8TkhwF6ZaQKQJyFB.jpg",
+            "created_at": "2023-04-12T13:29:28.000000Z",
+            "updated_at": "2023-04-12T13:29:28.000000Z"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 5,
+            "name": null,
+            "content": null,
+            "job": null,
+            "rate": 5,
+            "image": "https://main.transwayksa.net/images/6pIPStvVhRQbb79bJJsw.jpeg",
+            "created_at": "2022-10-11T15:22:27.000000Z"
+        },
+        {
+            "id": 7,
+            "name": null,
+            "content": null,
+            "job": null,
+            "rate": 5,
+            "image": "https://main.transwayksa.net/images/xJ95Yw62ZifTAcK6enC6.jpg",
+            "created_at": "2022-10-15T15:24:18.000000Z"
+        }
+    ],
+    "action": {
+        "id": 1,
+        "title": null,
+        "content": null,
+        "image": "https://main.transwayksa.net/images/6ZB9xwUvjtTYpNNBXmbF.png",
+        "button_link": "https://www.youtube.com/embed/cfUndab2Kg8",
+        "button_text": null
+    },
+    "blogs": [],
+    "about": {
+        "id": 1,
+        "title": null,
+        "content": null,
+        "image": "https://main.transwayksa.net/images/fo4Et1SRG0tm9awk9H2t.png"
+    }
+}
